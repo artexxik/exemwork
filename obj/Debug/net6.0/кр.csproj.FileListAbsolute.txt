@@ -1,0 +1,15 @@
+/Users/artexx/Desktop/кр/bin/Debug/net6.0/кр
+/Users/artexx/Desktop/кр/bin/Debug/net6.0/кр.deps.json
+/Users/artexx/Desktop/кр/bin/Debug/net6.0/кр.runtimeconfig.json
+/Users/artexx/Desktop/кр/bin/Debug/net6.0/кр.dll
+/Users/artexx/Desktop/кр/bin/Debug/net6.0/кр.pdb
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.csproj.AssemblyReference.cache
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.AssemblyInfoInputs.cache
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.AssemblyInfo.cs
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.csproj.CoreCompileInputs.cache
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.dll
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/refint/кр.dll
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.pdb
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/кр.genruntimeconfig.cache
+/Users/artexx/Desktop/кр/obj/Debug/net6.0/ref/кр.dll
